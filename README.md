@@ -1,38 +1,88 @@
-<h1 align="center">Hi 👋, I'm Aliza Ghaffar</h1>
-<h3 align="center">Certified Agentic AI Engineer and spec-driven full-stack developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:db2777,100:06b6d4&height=200&section=header&text=Aliza%20Ghaffar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20FDE%20Trainee%20%E2%80%A2%20BS%20AI%20%2728&descAlignY=58&descSize=18" width="100%" alt="Aliza Ghaffar" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alizaghaffar&label=Profile%20views&color=0e75b6&style=flat" alt="alizaghaffar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizaghaffar" alt="alizaghaffar" /></a> </p>
-
-- 🔭 I’m currently working on [The-CRM-Digital-FTE-Factory-Final-Hackathon-5](https://github.com/AlizaGhaffar/The-CRM-Digital-FTE-Factory-Final-Hackathon-5.git)
-
-- 🌱 I’m currently learning **Agentic AI Engineering and building real-world AI systems while pursuing a BS in Artificial Intelligence (graduating in 2028)**
-
-- 👯 I’m interested in collaborating on **Digital AI Employee & Agentic AI Projects**
-
-- 🤝 I’m looking for help with **Scaling and improving AI-based employee systems**
-
-- 👨‍💻 All of my projects are available at [https://aliza-s-portfolio.vercel.app/](https://aliza-s-portfolio.vercel.app/)
-
-- 💬 Ask me about **Agentic AI & RAG-based chatbot systems OpenAI Agent SDK & MCP servers FastAPI & Next.js Python & TypeScript PostgreSQL**
-
-- 📫 How to reach me **alizaghaffar23123@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alizaaghaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizaaghaffar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aliza ghaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliza ghaffar" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/75290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75290" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://aliza-s-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Building+Digital+AI+Employees+%F0%9F%A4%96;Multi-Agent+Systems+%7C+MCP+%7C+RAG;NASA+Space+Apps+Karachi+2026+Winner+%F0%9F%9A%80;Spec-Driven+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://aliza-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aliza-ghaffar-1487362bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alizaghaffar23123@gmail.com"><img src="https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/alizaaghaffar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alizaghaffar&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizaghaffar&show_icons=true&locale=en&layout=compact" alt="alizaghaffar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizaghaffar&show_icons=true&locale=en" alt="alizaghaffar" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizaghaffar&" alt="alizaghaffar" /></p>
+- 🎓 **BS Artificial Intelligence** at Sindh Madressatul Islam University (SMIU), class of 2028
+- 🚀 **FDE & Startup Founder Trainee**, Governor Sindh Initiative for GenAI, Web3 & Metaverse
+- 🤖 I build **agentic AI systems**: multi-agent pipelines, MCP servers, RAG chatbots and digital AI employees
+- 📐 I follow **spec-driven development** to take AI products from idea to deployed full-stack app
+- 💬 Ask me about **OpenAI Agents SDK, MCP, RAG, FastAPI, Next.js**
+- ⚡ Fun fact: **I think I am funny**
+
+---
+
+## 🏆 Achievements
+
+| | |
+|:--:|:--|
+| 🥇 | **Winner, NASA Space Apps Challenge Karachi 2026**, challenge "Field Shift Adaptive Farming" |
+| 🏅 | **AI Seekho 2026 Google Antigravity National Hackathon**, Regional Shortlist, 12th of 200+ teams in Karachi |
+| ☁️ | **Engineer AI Agents with ADK**, Google Cloud Skills Boost skill badge ([verify](https://www.credly.com/go/tWjW6rxR1wLS3ZU5JwUi8A)) |
+| 📜 | **98% (A Grade)** in GIAIC Quarter 3, OpenAI Agents SDK and Python |
+| 🎯 | Selected as **FDE & Startup Founder Trainee**, Governor Sindh Initiative |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| 🛠️ **[Digital Mazdoor](https://github.com/AlizaGhaffar/digital_mazdoor_app)** · [Live](https://digital-mazdoor-app.vercel.app/) | Agentic service platform for Pakistan's informal economy. Understands English, Urdu and Roman Urdu, then matches, schedules and books providers | FastAPI, Next.js, React Native, Multi-Agent |
+| ☁️ **[NimbusFlow, CRM Digital FTE](https://github.com/AlizaGhaffar/The-CRM-Digital-FTE-Factory-Final-Hackathon-5)** | AI customer-success agent for Gmail, WhatsApp and web, with tickets, sentiment and human escalation | OpenAI Agents SDK, Kafka, pgvector |
+| 🧑‍💼 **[Personal AI Employee](https://github.com/AlizaGhaffar/Personal-AI-Employee-Hackathon-0)** | AI employee on Claude Code that watches inboxes and socials and acts through MCP servers after human approval | Claude Code, MCP, Odoo, Playwright |
+| 🧶 **[Smart Buyer AI](https://github.com/AlizaGhaffar/Smart-Buyer-AI)** · [Live](https://frontend-beta-eight-18.vercel.app/) | Finds likely buyers of wool, down and cashmere with website evidence. False positives cut from 85% to 15% | FastAPI, NLP, Knowledge Reasoning, Next.js |
+| ⚡ **[Token-Efficient Coding Agent](https://github.com/sharjeelmajeed/Token-Efficient-Coding-Agent)** *(team)* | Policy-enforced coding agent with CLI, VS Code and PR review clients, Docker sandbox and 9 token-saving techniques | FastAPI, TypeScript, Docker, Ollama |
+| 📚 **[Physical AI Robotics Book](https://github.com/AlizaGhaffar/hackathon-physical-ai---robotics-book)** · [Live](https://physical-ai-robotics-book.vercel.app/) | Interactive robotics book with a RAG chatbot | Docusaurus, Qdrant, FastAPI |
+
+<p align="center">
+  <a href="https://aliza-s-portfolio.vercel.app/#projects"><b>✨ See all projects on my portfolio →</b></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nextjs,react,tailwind,postgres,docker,kafka,kubernetes,git,github,vscode,bash&perline=7" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/RAG-db2777?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlizaGhaffar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizaGhaffar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AlizaGhaffar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:db2777,100:7c3aed&height=110&section=footer" width="100%" alt="footer" />
